@@ -8,7 +8,9 @@ body{
     font-family: 'Outfit', sans-serif;
 }
 .container{
-    max-width: 360px;
+    position: relative;
+    top: 35px;
+    max-width: 300px;
     margin: 36px auto;
     background-color: hsl(0, 0%, 100%);
     padding: 15px;
