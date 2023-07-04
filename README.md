@@ -19,6 +19,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshots
 
+![SS](https://github.com/Harshvardhantomar/Qr_code/assets/80156380/90dfbb5d-88d0-442f-88b2-0e6724dc119c)
+![SS1](https://github.com/Harshvardhantomar/Qr_code/assets/80156380/1d5b4b05-ce4b-43de-a81e-658342d08e21)
+
+
 ### Links
 
 - Solution URL: ([https://github.com/Harshvardhantomar/Qr_code/blob/main/README.md](https://github.com/Harshvardhantomar/Qr_code))
